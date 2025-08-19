@@ -25,7 +25,7 @@ function App() {
             {ruyalar.map((ruya) => (
               <div key={ruya.id} className="ruya-kart">
                 <h3>{ruya.title}</h3>
-                {ruya.image && <img src={`/src/assets/${ruya.image}`} alt={ruya.title} className="ruya-gorsel" />}
+                {ruya.image && <img src={`./assets/${ruya.image}`} alt={ruya.title} className="ruya-gorsel" />}
                 <p><strong>Tarih:</strong> {ruya.date}</p>
                 <p><strong>Rüya Metni:</strong> {ruya.dream_text}</p>
                 <p><strong>Analiz:</strong> {ruya.analysis_text}</p>
@@ -40,7 +40,7 @@ function App() {
             {imgeler.map((imge) => (
               <div key={imge.id} className="imge-kart">
                 <h3>{imge.title}</h3>
-                {imge.image && <img src={`/src/assets/${imge.image}`} alt={imge.title} className="imge-gorsel" />}
+                {imge.image && <img src={`./assets/${imge.image}`} alt={imge.title} className="imge-gorsel" />}
               </div>
             ))}
           </div>
