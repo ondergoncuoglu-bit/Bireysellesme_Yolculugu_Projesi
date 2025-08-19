@@ -1,0 +1,25 @@
+# Rüya-128: Savaş ve Lobi
+**Tarih:** 12 Aralık 2019
+
+---
+### Rüya Metni
+
+Savaşın içinde büyük bir okyanusun kıyısında kumların içinde oyuncaklarıyla oynayan bir çocuk var. Denizde büyük dalgalar gözüküyor. Kumda çeşitli savaş oyuncakları ile oynuyor çocuk. Toplar var, tanklar var, askerler var. Çocuk, rüyadayken bir anda yok olmuş oluyor ve çocuğun kurduğu sahne canlanarak savaşa dönüyor, yani gerçek bir savaş sahnesine dönüşüyor kumsal. Tank, tüfek, küçük askerler savaşmaya başlıyor. Bu sahnenin içinden bir TV dizisi olan Kara Şimşek’e benzeyen bir araba çok hızlı bir şekilde kumların üzerinden havalanarak bir uçağın içine giriyor. Araba oyuncak boyutlarında fakat uçak gerçek boyutunda. Arabanın içinden, nasıl oluyorsa, onlarca insan gözüküyor. Arabanın içindeyse kötü insanlar var. Uçağın içinden kendilerini bir anda dünyanın başka bir yerinde, yüksek, metruk, yıkık bir binanın içindeki bir katta buluyorlar. Kendileri oyuncak formlarından çıkıp normal boyutlara geliyorlar. 10-15 katlı eski bir binanın unutulmuş ara katında yaşamaya başlıyorlar. Burası çok geniş bir otelin lobisi gibi ama lobinin yanında odalar da var. Dışarıda savaş var. Gerçek bir savaş. Lobi katını yöneten, idare eden insanlar var. Savaşta hayatta kalmak için binanın bu katı diğer katlardan yalıtılmış ve pencereleri kapatılmış durumda. Her şey yıkık dökük, kırık eşyalarla dolu. Her yer dışarıyı küçük aralıklardan görebiliyoruz. Cadde, şehir tamamen savaşın ortasında kalmış. İnsanlar burada yaşamaya çalışıyor. Bu arada bir anda ben de kendimi bu katın içinde buluyorum. Alt katlardan buraya kadar çıkarak keşfetmişim burayı. Birkaç arkadaşım görüyorum. Kendimizi küçük bir oda buluyoruz, yakıp döktük eşyaları, bir kenara çekip yatacak yer hazırlıyorum. Düşmanların bu kattan haberi yok, o nedenle yakalanma korkusu var herkeste. Ben buraya çıkabilen şanslılardan sayıyorum kendimi. Çünkü burası savaştan uzak, yalıtılmış ama sonuçta savaşın ortasında bir yer. Bir sürü bira şişesi var etrafta, hepsi dolu ve herkes bunlardan ücretsiz içebiliyor. Yiyecek bol, hamburgerler var. Bu kaynakları doğru kullanmalıyız diyorum içimden. Çünkü bir gün bunlar bitebilir, tasarruflu kullanmalıyız diyorum. Çünkü ortamdaki insanlar israf derecesinde oburca hareket ediyorlar. Binanın içinde dolanırken savaşın şiddetli bir şekilde yaşanmadığı binanın arka tarafına gidiyorum. Burayı keşfediyorum. Pencerenin aralığından dışarıya bakıyorum. Binanın arka bahçesinde büyük demir bir kapı var. Bu kapı açılıyor ve bizim katta yaşayan bazı çocukların gözleri bağlı şekilde dışarı çıktığını görüyorum. 10-12 çocuk. Çocuklar tek sıra halinde gözleri bağlı bir şekilde 3-5 merdiven basamağından inip arka caddeye çıkıyorlar. Gözleri kapalı olmalarına rağmen merdivenlerden düşmüyorlar. Başlarında okuldan arkadaşım Osman Hoca var sanırım. O uyarmış çocukları diye düşünüyorum, çünkü merdivenleri biliyor gibi yürüyorlar. Bu merdivenlerin sonu özgür, güzel, barış dolu bir sokağa çıkıyor. Anlıyorum ki “iyi olursanız, uyumlu olursanız bu binadan çıkabilirsiniz” diye çocuklara gösteriliyor burası. Ama çocuklar tekrar gözleri bağlanıp içeri sokuluyorlar.
+
+---
+### İlk Analiz ve Semboller
+
+Bu rüya, kolektif bir felaket ve "savaş" atmosferinde hayatta kalma, bir sığınak bulma ve o sığınaktaki yaşamın paradokslarını anlatan epik bir rüyadır.
+
+* **Oyunun Gerçeğe Dönüşmesi:** Rüya, masum bir çocuğun savaş oyununun, çocuğun kaybolmasıyla gerçek bir savaşa dönüşmesiyle başlar. Bu, bastırılmış veya oyun sandığımız kolektif agresyonun nasıl aniden gerçek ve yıkıcı bir hal alabileceğini gösterir.
+* **Sığınak:** Yıkık bir binanın yalıtılmış bir katı, bu savaşın ortasında bir "sığınak" işlevi görür. Burası, dış dünyadan korunulan ama aynı zamanda bir hapishane olan paradoksal bir mekandır.
+* **Bolluk ve İsraf:** Sığınağın içinde yiyecek ve içeceğin bol olması ama insanların bunu "israf ederek" tüketmesi, kriz anında bile insanların nasıl ileri görüşlü davranamadığını, kaynakları nasıl hoyratça kullandığını gösterir. Sizin "tasarruflu olmalıyız" düşünceniz, egonuzun bu kolektif çılgınlık içinde mantıklı ve sorumlu kalmaya çalışan yönünü temsil eder.
+* **Gözü Bağlı Çocuklar ve Sahte Özgürlük:** Rüyanın en can alıcı kısmı, sığınaktaki çocukların gözleri bağlı bir şekilde, geçici olarak "barış dolu bir sokağa" çıkarılıp geri getirilmeleridir. Bu, sistemin, en masum parçalara (çocuklar) ancak "uyumlu olmaları" ve "görmemeleri" (gözleri bağlı) koşuluyla sahte ve geçici bir özgürlük vaat ettiğini gösteren çok karamsar bir imgedir. Gerçek özgürlük yoktur, sadece itaat karşılığında verilen kısa süreli bir yanılsama vardır.
+
+### Potansiyel Etiketler
+#rüya #tarih/2019 #apokaliptik-rüya #tema/hayatta-kalma #savaş #sembol/sığınak #umut-ve-umutsuzluk #itaat
+
+### Derinleşmek İçin Sorular
+* O sığınağın içinde olmak size güven mi, yoksa klostrofobi mi hissettirdi?
+* İnsanların kaynakları israf etmesi karşısında neden sadece siz endişeleniyordunuz?
+* Gözleri bağlı çocukların gördüğü o sahte ve geçici özgürlük, günümüz dünyasındaki hangi durumları size hatırlatıyor?
