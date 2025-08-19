@@ -1,0 +1,1 @@
+# Bireysellesme_Yolculugu_Projesi
